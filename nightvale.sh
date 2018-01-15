@@ -1,17 +1,28 @@
-# In this particular instance, I am using the files for Welcome To Nightvale as they are downloaded from
-# iTunes as of 13 January 2018
+# Written by Eric Cloninger (github @ehcloninger)
+# Licensed under the MIT License. 
+#
+# In this particular instance, I am using the files for Welcome To Nightvale 
+# as they are downloaded from iTunes as of 13 January 2018. The times will
+# likely change as the authors add new headers and trailers.
+#
+# NOTE: I am all for giving credit to the original creators of this content.
+# I support WTNV by buying merchandise, attending live shows, purchasing books,
+# and making direct donations. The goal of this script is to let me listen to
+# the episodes in sequence without having to tap thru my podcast app every 20
+# minutes. I do not distribute the resulting output file and I don't suggest
+# anyone else do it.
 
-
-"1 - Pilot.mp3" "00:00:00" "00:00:00" \
-"2 - Glow Cloud.mp3" "00:00:00" "00:00:00" \
-"3 - Station Management.mp3" "00:00:00" "00:00:00" \
-"4 - PTA Meeting.mp3" "00:00:00" "00:00:00" \
-"5 - The Shape in Grove Park.mp3" "00:00:00" "00:00:00" \
-"6 - The Drawbridge.mp3" "00:00:00" "00:00:00" \
-"7 - History Week.mp3" "00:00:00" "00:00:00" \
-"8 - The Lights in Radon Canyon.mp3" "00:00:00" "00:00:00" \
-"9 - _PYRAMID_.mp3" "00:00:00" "00:00:00" \
-"10 - Feral Dogs.mp3" "00:00:00" "00:00:00" \
+# Place these inside the 'episodes' variable of PodcastConcat.sh
+"1 - Pilot.mp3" "00:02:35" "00:22:32" \
+"2 - Glow Cloud.mp3" "00:1:55" "00:21:08" \
+"3 - Station Management.mp3" "00:00:24" "00:20:13" \
+"4 - PTA Meeting.mp3" "00:01:11" "00:23:13" \
+"5 - The Shape in Grove Park.mp3" "00:02:02" "00:22:06" \
+"6 - The Drawbridge.mp3" "00:01:56" "00:23:51" \
+"7 - History Week.mp3" "00:02:09" "00:25:36" \
+"8 - The Lights in Radon Canyon.mp3" "00:01:09" "00:24:06" \
+"9 - _PYRAMID_.mp3" "00:01:32" "00:24:11" \
+"10 - Feral Dogs.mp3" "00:02:23" "00:25:50" \
 "11 - Wheat & Wheat By-Products.mp3" "00:00:00" "00:00:00" \
 "12 - The Candidate.mp3" "00:00:00" "00:00:00" \
 "13 - A Story About You..mp3" "00:00:00" "00:00:00" \
